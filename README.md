@@ -35,6 +35,9 @@ This project proposes a **multi-component AI pipeline** that goes beyond simple 
 
 > 📄 *Bachelor of Technology (CSE - Data Science) Final Year Project — VIT Vellore, April 2026*
 > *Supervised by Prof. Saira Banu J*
+
+>Kaggle Link
+
 > *https://www.kaggle.com/code/hitanshsss/pnemonia-detection-using-neurosymbolic-ai*
 
 ---
